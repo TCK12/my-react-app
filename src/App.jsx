@@ -8,11 +8,14 @@ import ToDoList from "./ToDoList";
 import UseEffectDemo from "./UseEffectDemo";
 import Windows from "./Windows";
 import DigitalClock from "./DigitalClock";
+import ComponentA from "./ComponentA";
+import UseRefDemo from "./UseRefDemo";
+import Stopwatch from "./Stopwatch";
 
 function App() {
     return (
         <>
-            <DigitalClock />
+            <Stopwatch />
         </>
     );
 }
